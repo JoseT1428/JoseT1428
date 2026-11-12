@@ -4,7 +4,7 @@
 
 🔭 Actualmente estoy trabajando en: [Nombre de tu proyecto actual o materia favorita]
 
-🌱 Estoy aprendiendo: [Tecnología 1, Python, Docker]
+🌱 Estoy aprendiendo: [Tecnología 1, Python, Docker, html, Css, JavaScrit]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseT1428&theme=dark)](https://git.io/streak-stats)
 
